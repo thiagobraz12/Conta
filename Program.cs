@@ -18,7 +18,7 @@ Console.WriteLine("\n");
 c1.Depositar(100);
 c1.Sacar(50);*/
 
-List<Conta> contas = new List<Conta>();
+List<Conta> contas = new List<Conta>(); // criar lista
 
 while (true)
 {
