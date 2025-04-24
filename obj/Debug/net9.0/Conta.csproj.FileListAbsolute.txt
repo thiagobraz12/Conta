@@ -1,0 +1,15 @@
+C:\Users\cartu\source\repos\Conta\bin\Debug\net9.0\Conta.exe
+C:\Users\cartu\source\repos\Conta\bin\Debug\net9.0\Conta.deps.json
+C:\Users\cartu\source\repos\Conta\bin\Debug\net9.0\Conta.runtimeconfig.json
+C:\Users\cartu\source\repos\Conta\bin\Debug\net9.0\Conta.dll
+C:\Users\cartu\source\repos\Conta\bin\Debug\net9.0\Conta.pdb
+C:\Users\cartu\source\repos\Conta\obj\Debug\net9.0\Conta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cartu\source\repos\Conta\obj\Debug\net9.0\Conta.AssemblyInfoInputs.cache
+C:\Users\cartu\source\repos\Conta\obj\Debug\net9.0\Conta.AssemblyInfo.cs
+C:\Users\cartu\source\repos\Conta\obj\Debug\net9.0\Conta.csproj.CoreCompileInputs.cache
+C:\Users\cartu\source\repos\Conta\obj\Debug\net9.0\Conta.dll
+C:\Users\cartu\source\repos\Conta\obj\Debug\net9.0\refint\Conta.dll
+C:\Users\cartu\source\repos\Conta\obj\Debug\net9.0\Conta.pdb
+C:\Users\cartu\source\repos\Conta\obj\Debug\net9.0\Conta.genruntimeconfig.cache
+C:\Users\cartu\source\repos\Conta\obj\Debug\net9.0\ref\Conta.dll
+C:\Users\cartu\source\repos\Conta\obj\Debug\net9.0\Conta.sourcelink.json
