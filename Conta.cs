@@ -18,6 +18,7 @@ public class Conta
         {
             //Console.WriteLine("Valor de depósito inválido.");
             throw new Exception("Valor de depósito inválido."); //lançar exceção
+                                                                //somente na logica 
         }
     }
     public void Sacar(double valor)
