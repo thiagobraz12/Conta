@@ -18,7 +18,7 @@ Console.WriteLine("\n");
 c1.Depositar(100);
 c1.Sacar(50);*/
 
-List<Conta> contas = new List<Conta>(); // criar lista
+/*List<Conta> contas = new List<Conta>(); // criar lista
 
 while (true)
 {
@@ -51,4 +51,32 @@ while (true)
         }
 
     }
+}*/
+
+try
+{
+    Console.WriteLine("Digite um numero");
+    int num = Convert.ToInt32(Console.ReadLine());
+    Console.WriteLine("Digite um segundo numero");
+    int num2 = Convert.ToInt32(Console.ReadLine());
+
+    int resultado = num / num2;
+    Console.WriteLine($"Resultado: {resultado}");
+}
+catch (DivideByZeroException ex)
+{
+    Console.WriteLine("Não é possível dividir por zero" + ex.Message); ;
+}
+catch (FormatException ex)
+{
+    Console.WriteLine("Formato inválido" + ex.Message); ;
+}
+catch (OverflowException ex)
+{
+    Console.WriteLine("Número muito grande" + ex.Message); ;
+}
+catch (Exception ex)
+{
+
+    Console.WriteLine("Ocorreu um erro" + ex.Message); ;
 }

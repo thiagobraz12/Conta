@@ -16,7 +16,8 @@ public class Conta
         }
         else
         {
-            Console.WriteLine("Valor de depósito inválido.");
+            //Console.WriteLine("Valor de depósito inválido.");
+            throw new Exception("Valor de depósito inválido."); //lançar exceção
         }
     }
     public void Sacar(double valor)
