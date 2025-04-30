@@ -33,7 +33,24 @@ public class Conta
             Console.WriteLine("Valor de saque inválido ou saldo insuficiente.");
         }
     }
-
+    public void depositar()
+    {
+        Console.WriteLine("Digite o valor do depósito");
+        double valor = Convert.ToDouble(Console.ReadLine());
+        Depositar(valor);
+    }
+    public void depositar(double valor)
+    {
+        Depositar(valor);
+    } 
+    public Conta()
+    {
+        this.id = id;
+        this.agencia = agencia;
+        this.Nconta = Nconta;
+        this.nomePro = nomePro;
+        this.saldo = saldo;
+    }
 
 
 }
